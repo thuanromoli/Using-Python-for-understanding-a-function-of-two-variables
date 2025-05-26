@@ -11,7 +11,7 @@ The function we will be working with is $f(x,y)= (x^3+y^3+xy) \cdot e^{-x^2-y^2}
 
 <h2>Repository Content</h2>
 
-- <b>LaTeX Report</b>
+- <b>LaTeX Report (source and pdf)</b>
 - <b>Jupyter notebook containg the code used to compute results and produce plots</b>
 
 <h2>Libraries used</h2>
