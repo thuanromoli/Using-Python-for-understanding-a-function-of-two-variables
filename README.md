@@ -7,7 +7,6 @@ The aim of this project is to show how Python (paticularly via tools in SymPy an
 We will define a function, illustrate it using surface and contour plots, and locate every stationary point of the function, identifying the nature of each such point. Finally we'll look at maxima and minima subject to a constraint.
 
 The function we will be working with is $f(x,y)= (x^3+y^3+xy) \cdot e^{-x^2-y^2}.$
-<br />
 
 <h2>Repository Content</h2>
 
